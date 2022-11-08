@@ -18,6 +18,25 @@
     }
 
     .why-us .col-left {
-        width: 75%;
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    .site-header {
+        margin-top: 0;
+        padding-top: 3rem;
+    }
+
+    .lessons {
+        padding-bottom: 3rem;
+    }
+
+    .steps, .why-us {
+        margin: 0;
+    }
+
+    .why-us {
+        padding: 3rem 0;
+        background-color: rgb(34, 34, 34);
     }
 }
